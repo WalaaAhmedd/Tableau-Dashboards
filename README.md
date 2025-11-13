@@ -1,4 +1,5 @@
 Sales Dashboard
+
 Description
 This dashboard visualizes sales data to provide insights on revenue, product performance, and sales trends over time. It helps track key metrics and supports decision-making for the sales team.
 
